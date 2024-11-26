@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="100" src="https://i.pinimg.com/736x/fe/f1/b3/fef1b3708359723a8964cfc2212a4122.jpg"  />
+<img align="right" width="100px" height="120" src="https://i.pinimg.com/736x/fe/f1/b3/fef1b3708359723a8964cfc2212a4122.jpg"  />
 
 ###
 
